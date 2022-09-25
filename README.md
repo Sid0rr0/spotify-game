@@ -1,11 +1,13 @@
-# nuxt-playground-hung
-
-Hi Hung,
-
-checkout our [Dasher library](https://library.dasher.cz). It's in an early stage, but you may find it useful for yo
+# Spotify game
 
 I chose the Spotify API, to run this app you'll need Spotify OAuth token. To get it go to [Spotify API console](https://developer.spotify.com/console/get-search-item/?q=Dasher&type=artist&market=&limit=&offset=&include_external=) and down click on "Get token". Then copy it to the .env file as "NUXT_ENV_API_KEY=".
-## What we want you to build?
+
+Find your favourite bands/albums and guess which of the two offered songs are more popular.
+
+--------------------
+## Instructions
+
+### What we want you to build?
 
 You can build anything you want. It's up to your imagination :)
 
@@ -18,7 +20,7 @@ There are just a few things, that this app should include:
 - For styles use [Tailwind CSS](https://tailwindcss.com/)
 - 
 
-## Build Setup
+### Build Setup
 
 ```bash
 # install dependencies
